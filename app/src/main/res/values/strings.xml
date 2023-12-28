@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Resto</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="food1_name">Nasi Goreng</string>
+    <string name="food2_name">Nasi Ayam Kremes</string>
+    <string name="food3_name">Nasi Ayam Bakar</string>
+    <string name="food4_name">Mie Goreng Special</string>
+    <string name="food5_name">Mie Goreng Seafood</string>
+    <string name="food6_name">Nasi Goreng Seafood</string>
+    <string name="food7_name">Nasi Goreng Special</string>
+    <string name="food8_name">Nasi Ikan Nila Goreng</string>
+    <string name="food9_name">Bihun Goreng Bakso</string>
+    <string name="food10_name">Bihun Goreng Seafood</string>
+    <string name="food11_name">Kwetiau Goreng</string>
+
+    <string name="food1_description">Nasi yang di Goreng dengan bumbu khas Rumahan.</string>
+    <string name="food2_description">Nasi dengan ayam yang di goreng di balut dengan kremesan.</string>
+    <string name="food3_description">Nasi dengan ayam yang di bakar dengan bumbu khas Rumahan.</string>
+    <string name="food4_description">Mie Goreng yang di buat dengan bumbu khas Rumahan.</string>
+    <string name="food5_description">Mie Goreng dengan toping seafood yang di buat dengan bumbu khas Rumahan.</string>
+    <string name="food6_description">Nasi Goreng dengan toping seafood yang di buat dengan bumbu khas Rumahan.</string>
+    <string name="food7_description">Nasi Goreng dengan toping telur, bakso, dan seafood yang di buat dengan bumbu khas Rumahan.</string>
+    <string name="food8_description">Nasi dengan ikan nila goreng dengan bumbu khas Rumahan.</string>
+    <string name="food9_description">Bihun goreng dengan toping bakso yang di buat dengan bumbu khas Rumahan.</string>
+    <string name="food10_description">Bihun goreng dengan toping seafood yang di buat dengan bumbu khas Rumahan.</string>
+    <string name="food11_description">Kwetiau goreng dengan toping special yang di buat dengan bumbu khas Rumahan.</string>
+
+    <string name="food_image_content_description">image list</string>
+    <string name="food_string">Foods</string>
+    <string name="food_finder">Food finder</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="signed">Register</string>
+    <string name="already_have_an_account_login">Sudah punya akun? Login disini!</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_sign_in">Tidak punya akun? Register disini!</string>
+    <string name="back_icon_description">icon back</string>
+    <string name="title_food_list">Food List</string>
+    <string name="logout">Logout</string>
+    <string name="subtitle_logout">Anda yakin ingin logout?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="notification_title">Pemberitahuan Periodik Resto</string>
+    <string name="notification_message">Ini adalah pemberitahuan periodik Resto app.</string>
+    <string name="channel_name">MyChannel</string>
+    <string name="channel_description">Deskripsi channel</string>
+    <string name="channel_id">MyChannelID</string>
+    <string name="singed_up_failed">Singed Up Failed: %1$s</string>
+    <string name="successfully_singed_up">Successfully Singed Up</string>
+    <string name="password_and_confirm_password_do_not_match">Password and Confirm Password do not match</string>
+    <string name="email_and_password_can_t_be_blank">Email and Password can\'t be blank</string>
+    <string name="successfully_loggedin">Successfully LoggedIn</string>
+    <string name="log_in_failed">Log In failed: %1$s</string>
+</resources>

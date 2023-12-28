@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622935538035",
+    "project_id": "resto-54961",
+    "storage_bucket": "resto-54961.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622935538035:android:072919aa1afd11b72ead06",
+        "android_client_info": {
+          "package_name": "com.ike.resto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCep2DRmQvaqf2n71X0fCN8Pq2Vcj2k8po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
